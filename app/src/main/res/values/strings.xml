@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scrimp</string>
+    <string name="screen_label_dashboard">Dashboard</string>
+    <string name="screen_label_spending">Spending</string>
+    <string name="screen_label_past_trips">Past Trips</string>
+    <string name="screen_label_converter">Converter</string>
+</resources>
